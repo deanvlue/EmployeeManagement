@@ -1,0 +1,14 @@
+C:\Users\jmunozm\source\repos\MVCtest\bin\Debug\netcoreapp2.2\MVCtest.deps.json
+C:\Users\jmunozm\source\repos\MVCtest\bin\Debug\netcoreapp2.2\MVCtest.runtimeconfig.json
+C:\Users\jmunozm\source\repos\MVCtest\bin\Debug\netcoreapp2.2\MVCtest.runtimeconfig.dev.json
+C:\Users\jmunozm\source\repos\MVCtest\bin\Debug\netcoreapp2.2\MVCtest.dll
+C:\Users\jmunozm\source\repos\MVCtest\bin\Debug\netcoreapp2.2\MVCtest.pdb
+C:\Users\jmunozm\source\repos\MVCtest\obj\Debug\netcoreapp2.2\MVCtest.csprojAssemblyReference.cache
+C:\Users\jmunozm\source\repos\MVCtest\obj\Debug\netcoreapp2.2\MVCtest.csproj.CoreCompileInputs.cache
+C:\Users\jmunozm\source\repos\MVCtest\obj\Debug\netcoreapp2.2\MVCtest.RazorAssemblyInfo.cache
+C:\Users\jmunozm\source\repos\MVCtest\obj\Debug\netcoreapp2.2\MVCtest.RazorAssemblyInfo.cs
+C:\Users\jmunozm\source\repos\MVCtest\obj\Debug\netcoreapp2.2\MVCtest.AssemblyInfoInputs.cache
+C:\Users\jmunozm\source\repos\MVCtest\obj\Debug\netcoreapp2.2\MVCtest.AssemblyInfo.cs
+C:\Users\jmunozm\source\repos\MVCtest\obj\Debug\netcoreapp2.2\MVCtest.RazorTargetAssemblyInfo.cache
+C:\Users\jmunozm\source\repos\MVCtest\obj\Debug\netcoreapp2.2\MVCtest.dll
+C:\Users\jmunozm\source\repos\MVCtest\obj\Debug\netcoreapp2.2\MVCtest.pdb
